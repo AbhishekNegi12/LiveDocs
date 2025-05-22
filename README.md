@@ -15,8 +15,6 @@
 - **UI Components:** ShadCN
 # Demo
 - **[Live Demo](https://live-docs-nine-xi.vercel.app/)** : Check out the live version of LiveDocs to see its features in action.
-# Video
-- **[Project Overview Video](https://drive.google.com/file/d/1rD4sjcuzlLmfYwQ1kM5qroqOmMokwP0N/view?usp=sharing)**: Watch a video demonstration of the project, including its main features and functionality.
 # Getting Started
 
 1. **Clone the Repository**:
